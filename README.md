@@ -1,16 +1,18 @@
-## Hi there 👋
+## hi there, i'm jasmine 👋
 
-<!--
-**jjasminechii/jjasminechii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm currently a junior at the university of washington studying computer science and english literature. 
 
-Here are some ideas to get you started:
+my current projects center around cs education and fiddling with streamlining grading for the course(s) i TA for :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+when i'm away from my computer, i like to...
+  * 🌈 read new books
+  * 🍣 find yummy restaurants + cafes
+  * 🎥 watch nail-biter movies
+  * 🍪 bake!
+
+<div text-align="center";> 
+  <a href="mailto:jjasminechii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/jjasminechii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+</div>
+
+
