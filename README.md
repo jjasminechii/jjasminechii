@@ -7,7 +7,7 @@ my current projects center around cs education and fiddling with streamlining gr
 when i'm away from my computer, i like to...
   * 🌈 read new books
   * 🍣 find yummy restaurants + cafes
-  * 🎥 watch nail-biter movies
+  * 🎥 watch movies (one of my all-time favs: Arrival)
   * 🍪 bake!
 
 <div text-align="center";> 
