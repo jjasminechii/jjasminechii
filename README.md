@@ -5,7 +5,7 @@ i'm currently a junior at the university of washington studying computer science
 my current projects center around cs education and fiddling with streamlining grading for the course(s) i TA for :)
 
 when i'm away from my computer, i like to...
-  * 🌈 read new books (very avid reader of LGBTQ+ literature! If you're looking for a read, I couldn't recommend [*Our Wives Under the Sea*](https://www.goodreads.com/book/show/58659343-our-wives-under-the-sea?ref=nav_sb_ss_1_18) enough)
+  * 🌈 read new books (avid reader of LGBTQ+ literature! If you're looking for a read, I couldn't recommend [*Our Wives Under the Sea*](https://www.goodreads.com/book/show/58659343-our-wives-under-the-sea?ref=nav_sb_ss_1_18) enough)
   * 🍣 find yummy restaurants + cafes
   * 🎥 watch movies (one of my all-time favorites: [*Arrival*](https://www.imdb.com/title/tt2543164/))
   * 🍪 bake!
