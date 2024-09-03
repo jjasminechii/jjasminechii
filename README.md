@@ -1,8 +1,8 @@
 ## hi there, i'm jasmine 👋
 
-i'm currently a junior at the university of washington studying computer science and english literature. 
+i'm currently a bs/ms student at the university of washington studying computer science with a double degree in english literature.
 
-my current projects center around cs education and fiddling with streamlining grading for the course(s) i TA for :)
+my current projects center around cs education and working on streamlining grading for the course(s) i TA for :)
 
 when i'm away from my computer, i like to...
   * 🌈 read new books! If you're looking for a read, I couldn't recommend [*Our Wives Under the Sea*](https://www.goodreads.com/book/show/58659343-our-wives-under-the-sea?ref=nav_sb_ss_1_18) enough
