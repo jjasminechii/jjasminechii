@@ -1,11 +1,11 @@
 ## hi there, i'm jasmine 👋
 
-i'm currently a bs/ms student at the university of washington studying computer science with a double degree in english literature.
+I'm currently a BS/MS student at the University of Washington studying computer science with a double degree in english literature.
 
-my current projects center around cs education and working on streamlining grading for the course(s) i TA for :)
+My current projects center around CS education and working on streamlining grading for the course(s) I TA for :)
 
-when i'm away from my computer, i like to...
-  * 🌈 read new books! If you're looking for a read, I couldn't recommend [*Our Wives Under the Sea*](https://www.goodreads.com/book/show/58659343-our-wives-under-the-sea?ref=nav_sb_ss_1_18) enough
+When i'm away from my computer, I like to...
+  * 🌈 read new books!
   * 🍣 find yummy restaurants + cafes
   * 🎥 watch movies (one of my all-time favorites: [*Arrival*](https://www.imdb.com/title/tt2543164/))
   * 🍪 bake!
