@@ -4,7 +4,7 @@ I'm currently a BS/MS student at the University of Washington studying computer 
 
 My current projects center around CS education and working on streamlining grading for the course(s) I TA for :)
 
-When i'm away from my computer, I like to...
+When I'm away from my computer, I like to...
   * 🌈 read new books!
   * 🍣 find yummy restaurants + cafes
   * 🎥 watch movies (one of my all-time favorites: [*Arrival*](https://www.imdb.com/title/tt2543164/))
