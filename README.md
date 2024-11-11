@@ -1,6 +1,6 @@
 ## hi there, i'm jasmine 👋
 
-I'm currently a BS/MS student at the University of Washington studying Computer Science with a double degree in English Literature.
+I'm currently a student at the University of Washington studying Computer Science with a double degree in English Literature.
 
 My current projects center around CS education and working on streamlining grading for the course(s) I TA for :)
 
